@@ -1,0 +1,6 @@
+{
+  "name": "Cold Call Counter & Timer",
+  "description": "A gamified cold calling dashboard to track dials, set pace countdown timers, and manage call momentum.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
